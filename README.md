@@ -10,6 +10,9 @@ https://feedly.com/i/top/bug-bounty-blogs
 ## Another great resource!
 https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 
+## medium writeups updates latest Bug Bounty writeups every 10 minutes
+https://github.com/rix4uni/medium-writeups
+
 ## blogs.txt
 https://spaceraccoon.dev
 
